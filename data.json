@@ -1,14 +1,14 @@
 [
   {
-    "id": 1,
-    "title": "Godlike UI",
-    "author": "Enoch",
-    "views": 1024
+    "username": "EnochJ",
+    "email": "enoch@example.com",
+    "phone": "+91 9876543210",
+    "address": "Golden Jubilee Flats, Chennai"
   },
   {
-    "id": 2,
-    "title": "Super API",
-    "author": "Jackson",
-    "views": 999
+    "username": "JacksonC",
+    "email": "jackson@example.com",
+    "phone": "+91 9123456789",
+    "address": "Anna Nagar, Chennai"
   }
 ]
